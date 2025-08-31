@@ -1,13 +1,19 @@
 # NutriClass-Food-Classification-Using-Nutritional-Data
+
 🍽️ Food Classification Using Nutritional Data
+
 📌 Overview
 This project aims to classify foods based on their nutritional attributes and preparation methods.
 By using machine learning models, it predicts categories such as meal type (breakfast, lunch, dinner, snack), preparation method (raw, baked, fried, etc.), and dietary tags (vegan, gluten-free).
 
+
 The system can be useful in health applications, dietary planning, and food delivery apps to automatically identify foods or recommend healthier alternatives.
+
 
 📊 Dataset
 The dataset contains nutritional and categorical attributes for different food items.
+
+
 
 Features:
 
@@ -19,7 +25,9 @@ Dietary restrictions: Is_Vegan, Is_Gluten_Free
 
 Food_Name: Actual food label (Pizza, Burger, Donut, etc.)
 
+
 ⚙️ Project Workflow
+
 Data Preprocessing
 
 Handling categorical variables (Label Encoding / One-Hot Encoding)
