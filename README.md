@@ -30,7 +30,7 @@ Food_Name: Actual food label (Pizza, Burger, Donut, etc.)
 ⚙️ Project Workflow
 
 
-1.Data Preprocessing
+1. Data Preprocessing
 
 Handling categorical variables (Label Encoding / One-Hot Encoding)
 
@@ -39,7 +39,7 @@ Normalizing/scaling continuous features
 Encoding boolean features
 
 
-2.Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
 Distribution of calories, carbs, fat, and other nutrients
 
@@ -48,14 +48,14 @@ Correlation heatmaps between nutrients
 Class imbalance check for food categories
 
 
-3.Model Building
+3. Model Building
 
 Machine Learning Models: Logistic Regression, Random Forest, SVM, etc.
 
 Neural Networks (optional extension)
 
 
-4.Model Evaluation
+4. Model Evaluation
 
 Metrics: Accuracy, Precision, Recall, F1-score
 
@@ -64,7 +64,7 @@ Confusion Matrix to analyze misclassifications
 Cross-validation & Hyperparameter Tuning (GridSearchCV)
 
 
-5.Applications
+5. Applications
 
 Diet recommendation systems
 
